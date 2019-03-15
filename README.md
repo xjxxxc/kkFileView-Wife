@@ -1,7 +1,3 @@
-#### [阿里云限量红包](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=3ua1yzxw)
-![阿里云限量红包](https://images.gitee.com/uploads/images/2019/0109/114755_88127e0f_744475.jpeg "1000_90.jpg")
-推荐你，限时领 “最高1888元红包” 。云产品通用红包，可叠加官网常规优惠使用。 
-
 如果部署本应用到阿里云，你需要帮助，请QQ联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=63144436&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 
 #  kkFileView-Wife
